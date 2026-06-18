@@ -127,7 +127,7 @@ python viewer.py
 ### インタラクティブ比較システム
 
 <p align="center">
-  <img src="examples/demo.png" width="900">
+  <img src="examples/viewer.png" width="900">
 </p>
 
 ---
