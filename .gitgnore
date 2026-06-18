@@ -1,0 +1,21 @@
+# Experimental audio files
+*.wav
+*.mp3
+*.flac
+
+# Learned models
+final_model.pth
+
+# image
+*.png
+*.gif
+
+# Embedding cache
+embeddings_cache/
+
+# Viewer outputs
+pygame_interactive_results/
+
+# Feature cache
+*.pt
+*.npy
