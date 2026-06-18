@@ -2,6 +2,10 @@
 
 本リポジトリは、学士研究として開発した楽曲類似度可視化システムのソースコードです。
 
+<p align="center">
+  <img src="examples/demo.gif" width="900">
+</p>
+
 楽曲から抽出した音響特徴量を用いてフレーム単位の埋め込み表現を学習し、楽曲間の類似度を時系列上で可視化することで、複数楽曲に存在する類似部分の把握を支援します。
 
 ---
@@ -116,11 +120,15 @@ python viewer.py
 
 ### 楽曲間時系列類似度マップ
 
-（画像を追加）
+<p align="center">
+  <img src="examples/sim_mat.png" width="900">
+</p>
 
 ### インタラクティブ比較システム
 
-（スクリーンショットを追加）
+<p align="center">
+  <img src="examples/demo.png" width="900">
+</p>
 
 ---
 
